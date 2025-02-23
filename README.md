@@ -1,6 +1,10 @@
 # YOLOv8-MediaPipe-Fusion
 YOLOv8-MediaPipe Fusion for Real-time Pose Estimation and Motion Replication in Unity3D
 
+Authors: Raja Ali Akhtar, Hira Yaseen, Tahira Mahboob
+Affiliation: Department of Computer and Software Engineering, Information Technology University, Pakistan.
+
+
 Presentation: Summary of the work in the file "Integrating YOLOv8 and Media-Pipe for Accurate Pose Detection and Replication in Unity 3D Environments".
 
 Abstract: 
