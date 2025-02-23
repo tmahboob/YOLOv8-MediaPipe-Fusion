@@ -8,9 +8,9 @@ This study presents an innovative approach for real-time human pose detection an
 
 Tools:
 
-  Test h/w setup: AMD Ryzen 3600 processor, Nvidia GTX 1660 Super GPU, Maximum thermal envelope (TDP): 65W.
+Test h/w setup: AMD Ryzen 3600 processor, Nvidia GTX 1660 Super GPU, Maximum thermal envelope (TDP): 65W.
   
-  - Library and Software Versions:
+Library and Software Versions:
       -Python 3.12 and cv2 3.8 
       -Libraries: Ultralytics YOLOv8, CvZone,       PyTorch, TensorFlow.
       -Development Tools: PyCharm (Python), Unity 3D 2024, Microsoft Visual Studio Community (C#).
