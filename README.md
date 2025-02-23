@@ -14,3 +14,14 @@ This study presents an innovative approach for real-time human pose detection an
           -Python 3.12 and cv2 3.8 
           -Libraries: Ultralytics YOLOv8, CvZone,       PyTorch, TensorFlow.
           -Development Tools: PyCharm (Python), Unity 3D 2024, Microsoft Visual Studio Community (C#).
+
+
+python_code: contains YOLOv8 and MEdia pipe implementation to extract keypoints.
+
+keypoint.py: extract keypoints from video file
+
+Unity3D: animation packages
+
+animation.txt: animation keypoints extracted for translation in Unity3D
+
+
