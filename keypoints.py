@@ -7,8 +7,8 @@ net = cv2.dnn.readNetFromTensorflow("path_to_openpose_model.pb", "path_to_openpo
 n_points = 33
 
 # Video file path
-video_path = 'input_video.mp4'
-output_file = 'pose_landmarks.txt'
+video_path = 'video.mp4'
+output_file = 'animation.txt'
 
 # Open video file
 cap = cv2.VideoCapture(video_path)
